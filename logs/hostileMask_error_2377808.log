@@ -1,0 +1,14 @@
+ERROR: Unknown shell type '(load)'
+[M::mm_idx_gen::33.549*1.59] collected minimizers
+[M::mm_idx_gen::42.017*1.86] sorted minimizers
+[M::main::50.300*1.67] loaded/built the index for 6320 target sequence(s)
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 6320
+[M::mm_idx_stat::51.864*1.65] distinct minimizers: 102655153 (49.68% are singletons); average occurrences: 3.160; average spacing: 5.282; total length: 1713589032
+[M::main] Version: 2.26-r1175
+[M::main] CMD: minimap2 -d /home/people/kpurves/scratch/training/reference/masked/masked/mask.mmi /home/people/kpurves/scratch/training/reference/masked/masked/masked.fa
+[M::main] Real time: 51.972 sec; CPU: 85.760 sec; Peak RSS: 6.967 GB
+mkdir: cannot create directory ‘/home/people/kpurves/scratch/training/data/CleanData’: File exists
+18:22:27 INFO: Hostile version 1.0.0. Using Minimap2's long read preset
+18:22:27 INFO: Found custom index /home/people/kpurves/scratch/training/reference/masked/masked/mask.mmi
+18:22:27 INFO: Cleaning…
+18:23:18 INFO: Cleaning complete

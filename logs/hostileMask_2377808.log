@@ -1,0 +1,16 @@
+[
+    {
+        "version": "1.0.0",
+        "aligner": "minimap2",
+        "index": "/home/people/kpurves/scratch/training/reference/masked/masked/mask.mmi",
+        "options": [],
+        "fastq1_in_name": "SRR19500735.fastq.gz",
+        "fastq1_in_path": "/home/people/kpurves/scratch/training/data/filtlong_data/SRR19500735/1000/SRR19500735.fastq.gz",
+        "fastq1_out_name": "SRR19500735.clean.fastq.gz",
+        "fastq1_out_path": "/home/people/kpurves/scratch/training/data/CleanData/SRR19500735.clean.fastq.gz",
+        "reads_in": 111277,
+        "reads_out": 12844,
+        "reads_removed": 98433,
+        "reads_removed_proportion": 0.88458
+    }
+]

@@ -13,3 +13,4 @@
 *.tsv
 reference/
 data/
+logs/
